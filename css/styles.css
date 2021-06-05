@@ -1,0 +1,93 @@
+/********************CLASS SELECTORS***************/
+.outer-sec {
+  display: inline-block;
+  left: 15rem;
+  position: relative;
+  top: 6.25rem;
+}
+
+.text-sec {
+  background-color: blue;
+  background-color: hsl(244, 38%, 16%);
+  border-radius: 0.625rem 0 0 0.625rem;
+  height: 27.9rem;
+  position: absolute;
+  text-align: left;
+  width: 33.75rem;
+}
+
+.img-sec {
+  left: 33.75rem;
+  position: absolute;
+}
+
+.image {
+  border-radius: 0 0.625rem 0.625rem 0;
+  filter: invert(0%) sepia(8%) saturate(7494%) hue-rotate(227deg) brightness(60%) contrast(89%);
+}
+
+.main-tag {
+  color: white;
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+}
+
+.purple-text {
+  color: #AA5CDB;
+  color: hsl(277, 64%, 61%);
+}
+
+.main-para {
+  opacity: 0.75;
+  color: #FFFFFF;
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+}
+
+.stat-headings {
+  opacity: 0.6;
+  color: #F5F5F5;
+  color: hsl(0, 0%, 100%);
+  font-size: 0.75rem;
+}
+
+.stat-values {
+  color: white;
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.attribution {
+  opacity: 0.75;
+  color: #FFFFFF;
+  color: hsl(0, 0%, 100%);
+  font-size: 0.625rem;
+  margin: 35rem 15rem;
+}
+
+/*******************TAG SELECTORS**************************/
+body {
+  background-color: #090B1A;
+  background-color: hsl(233, 47%, 7%);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 0.9rem;
+  width: 90rem;
+}
+
+h1 {
+  margin: 3rem;
+}
+
+p {
+  font-size:0.875rem;
+  line-height: 2;
+  margin: 3rem 9.4rem 1.25rem 3rem;
+}
+
+table {
+  border-spacing: 3.125rem 0;
+  margin-top: 5rem;
+  text-align: left;
+}

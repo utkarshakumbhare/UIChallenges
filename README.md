@@ -33,8 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/utkarshakumbhare/UIChallenges](https://github.com/utkarshakumbhare/UIChallenges)
+- Challenge1-Solution URL: [https://github.com/utkarshakumbhare/UIChallenges](https://github.com/utkarshakumbhare/UIChallenges)
 - Live Site URL: [https://utkarshakumbhare.github.io/UIChallenges/](https://utkarshakumbhare.github.io/UIChallenges/)
+- TinDog Site URL : [https://utkarshakumbhare.github.io/UIChallenges/challenge2-TinDog/index.html] (https://utkarshakumbhare.github.io/UIChallenges/challenge2-TinDog/index.html)
 
 ## My process
 

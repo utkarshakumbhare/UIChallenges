@@ -1,6 +1,7 @@
 # Frontend Mentor - Stats preview card component solution
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+Challenge-2 is TinDog (Tinder for Dog) website.
 
 ## Table of contents
 
@@ -25,6 +26,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/screenshot.PNG)
+![](./images/screenshot-2.PNG)
+![](./images/screenshot-3.PNG)
+![](./images/screenshot-4.PNG)
 
 
 ### Links
@@ -36,15 +40,18 @@ Users should be able to:
 
 - started with HTML for code structuring,
 - then followed top down approach for each section
+- For Tindog, understood CSS and Bootstrap5.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- TinDog also uses Bootstrap5
 
 ### What I learned
 
 - CSS filter, positioning, adding fallback colors and fonts
+- Tag, id, class selectors. Bootstrap grid. Stacking & z-index. CSS Media queries.
 
 ## Author
 
